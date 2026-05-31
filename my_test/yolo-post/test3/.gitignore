@@ -1,0 +1,24 @@
+# 视频文件
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# 模型权重文件
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# 输出目录
+runs/
+temp_output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 其他临时文件
+*.log
